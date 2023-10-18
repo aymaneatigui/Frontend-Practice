@@ -33,6 +33,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: var(--base-size);
+  flex-flow: column nowrap;
 }
 
 .card {
@@ -168,4 +169,19 @@ body {
   100% {
     opacity: 1;
   }
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.7rem;
+  font-family: var(--primary-font);
+}
+.attribution a {
+  color: var(--primary-color-dark);
+  text-decoration: none;
+}
+.attribution a:hover {
+  color: var(--button-hover);
 }
