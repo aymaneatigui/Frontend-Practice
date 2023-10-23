@@ -269,3 +269,6 @@ main {
 .rating.close {
   display: none;
 }
+
+.attribution { font-size: 11px; text-align: center; margin-top: 20px; color: var(--neutral-light-grey);}
+.attribution a { color: var(--neutral-color); text-decoration: none;}
