@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - Interactive rating component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 ## Coded by [AYMANE ATIGUI](https://github.com/aymaneatigui).
 
@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aymaneatigui/Frontend-Practice/tree/main/rating-card)
-- Live Site URL: [Add live site URL here](https://frontend-practice-projects.vercel.app/rating-card/)
+- Solution URL: [Github](https://github.com/aymaneatigui/Frontend-Practice/tree/main/rating-card)
+- Live Site URL: [https://frontend-practice-projects.vercel.app](https://frontend-practice-projects.vercel.app/rating-card/)
 
 ## My process
 

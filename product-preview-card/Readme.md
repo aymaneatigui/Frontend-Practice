@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aymaneatigui/Frontend-Practice/tree/main/product-preview-card)
-- Live Site URL: [Add live site URL here](https://frontend-practice-projects.vercel.app/product-preview-card/index.html)
+- Solution URL: [Github](https://github.com/aymaneatigui/Frontend-Practice/tree/main/product-preview-card)
+- Live Site URL: [https://frontend-practice-projects.vercel.app](https://frontend-practice-projects.vercel.app/product-preview-card/index.html)
 
 ## My process
 

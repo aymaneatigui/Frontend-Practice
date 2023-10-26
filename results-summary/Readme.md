@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - Results summary component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 ## Coded by [AYMANE ATIGUI](https://github.com/aymaneatigui).
 
@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aymaneatigui/Frontend-Practice/tree/main/results-summary)
-- Live Site URL: [Add live site URL here](https://frontend-practice-projects.vercel.app/results-summary/index.html)
+- Solution URL: [Github](https://github.com/aymaneatigui/Frontend-Practice/tree/main/results-summary)
+- Live Site URL: [https://frontend-practice-projects.vercel.app](https://frontend-practice-projects.vercel.app/results-summary/index.html)
 
 ## My process
 
@@ -52,5 +52,5 @@ Users should be able to:
 
 ### Useful resources
 
-- [ChatGPT](https://chat.openai.com/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+
 - [MDN](https://developer.mozilla.org/) - This is an amazing documenting Web platform. I'd recommend it to anyone still learning Web Development.
